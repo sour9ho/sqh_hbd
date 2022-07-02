@@ -25,8 +25,7 @@ function App() {
   return (
     <>
       <AppBlock>
-        <BrowserRouter > 
-        {/* basename="/test_dash" */}
+        <BrowserRouter basename="/sqh_hbd"> 
           <Routes>
             <Route exact path="/" element={
               <Home

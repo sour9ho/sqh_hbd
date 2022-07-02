@@ -22,7 +22,7 @@
     "deploy": "gh-pages -d build",
     "predeploy": "copy 404.html build"
   },
-  "hompage": "https://sour9ho.github.io/test_dash/",
+  "hompage": "https://sour9ho.github.io/shq_hbd/",
   "eslintConfig": {
     "extends": [
       "react-app",
