@@ -165,8 +165,8 @@ export const sampleQuestions = {
     },
     7: {
         description: {
-            text: "다음 중 규호가 저장한 윤건이 연락처의 저장명으로 적절한 것을 모두 고르시오.",
-            score: 15,
+            text: "다음 중 규호 폰에 저장된 적 있는 윤건이의 연락처 저장명을 모두 고르시오.",
+            score: 10,
         },
         type: questionType.multipleAll,
         answer: [1, 2, 4],
@@ -196,8 +196,8 @@ export const sampleQuestions = {
     },
     8: {
         description: {
-            text: "다음 중 윤건이가 저장한 규호 연락처의 저장명으로 적절한 것을 모두 고르시오.",
-            score: 15,
+            text: "다음 중 윤건이 폰에 저장된 적 있는 규호의 연락처 저장명을 모두 고르시오.",
+            score: 10,
         },
         type: questionType.multipleAll,
         answer: [1, 2, 3],
@@ -228,7 +228,7 @@ export const sampleQuestions = {
     9: {
         description: {
             text: "윤건이와 규호는 서른 한 살 무렵에 같은 집에서 살고 있는 상태이다. 다음 중 두 사람이 함께 살고 있는 집에 대한 설명으로 옳은 것을 모두 고르시오.",
-            score: 15,
+            score: 10,
         },
         type: questionType.multipleAll,
         answer: [2, 3],
