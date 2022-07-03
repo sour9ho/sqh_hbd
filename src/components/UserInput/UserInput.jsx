@@ -41,9 +41,9 @@ const ButtonBlock = styled.button`
   /* shape */
   // 와 진짜 어메이징
   box-sizing: border-box;
-  border: solid ${props => props.satisfied ? '#FFEE00' : '#f2f2f2'};
+  border: solid ${props => props.satisfied ? '#ffdc00' : '#f2f2f2'};
   border-radius: 0.4rem;
-  background-color: ${props => props.satisfied ? '#FFEE00' : '#f2f2f2'};
+  background-color: ${props => props.satisfied ? '#ffdc00' : '#f2f2f2'};
 
   /* font */
   font: inherit;

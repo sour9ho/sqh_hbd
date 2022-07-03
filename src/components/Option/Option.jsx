@@ -28,7 +28,7 @@ const OptionBar = styled.div`
   border-radius: inherit;
   
   /* color */
-  background: #E8F200;
+  background: #e6e600;
 
   /* animation */
   transition: all ease 0.2s;
