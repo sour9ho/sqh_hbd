@@ -72,7 +72,7 @@ function Home({questionInfo, testName}) {
           testName={testName}
         />
         <TestCautionBlock className="test-caution-block">
-          <TestCautionLi>{`본 시험은 <파트타임 파트너>의 등장인물 신규호의 생일 축하하기 위해 만들어진 모의고사입니다.`}</TestCautionLi>
+          <TestCautionLi>{`본 시험은 <파트타임 파트너>와 <연애수업/연애사업>의 등장인물 신규호의 생일 축하하기 위해 만들어진 모의고사입니다.`}</TestCautionLi>
           <TestCautionLi>{`
             시험은 총 ${numOfQuestions}문제이며,
             ${multipleAnswer !== 0 ? `객관식 ${multipleAnswer}문제` : ""}${(multipleAnswer !== 0 && shortAnswer !== 0) ? "와 " : ""}${shortAnswer !== 0 ? `주관식 ${shortAnswer}문제` : ""}로
