@@ -93,8 +93,7 @@ function Home({questionInfo, testName}) {
       <FooterBlock>
         <DivisionLine/>
         <p>원작: <HyperLink link={"https://ridibooks.com/books/2349003221?_rdt_sid=author&_rdt_idx=0"}>파트타임 파트너</HyperLink> / 작가: 체리만쥬</p>
-        {/* <p>문제 제작: <HyperLink link={"https://twitter.com/lala_ddoddo"}>@lala_ddoddo</HyperLink> <HyperLink link={"https://twitter.com/onlyfor4dollars"}>@onlyfor4dollars</HyperLink></p>
-        <p>사이트 제작: <HyperLink link={"https://twitter.com/onlyfor4dollars"}>@onlyfor4dollars</HyperLink></p> */}
+        <p>문제 제작: <HyperLink link={"https://twitter.com/lala_dduddu"}>@lala_dduddu</HyperLink> <HyperLink link={"https://twitter.com/cherry_pingu"}>@cherry_pingu</HyperLink></p>
       </FooterBlock>
     </>
   )
